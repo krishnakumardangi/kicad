@@ -1,1 +1,1 @@
-# Arduino Nano
+# Arduino Nano PCB Design using KiCad
