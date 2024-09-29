@@ -5,7 +5,7 @@ KiCad runs on all major operating systems and a wide range of computer hardware.
 ## Basic Concepts and Workflow
 1. Schematic
 <h1 align="center">
-    <a href="https://github.com/krishnakumardangi/kicad/tree/main/docs"><img src="../docs/Schematic.png)" alt="Schematic" width="550"></a>
+    <a href="https://github.com/krishnakumardangi/kicad/tree/main/docs"><img src="../docs/Schematic.png" alt="Schematic" width="550"></a>
 </h1>
 
 2. Footprints
