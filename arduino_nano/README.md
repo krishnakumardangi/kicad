@@ -9,8 +9,22 @@ KiCad runs on all major operating systems and a wide range of computer hardware.
 </h1>
 
 2. Footprints
+<h1 align="center">
+    <a href="https://github.com/krishnakumardangi/kicad/tree/main/docs"><img src="../docs/Footprints.png" alt="Footprints" width="550"></a>
+</h1>
 
 3. Layout and Routing
+<h1 align="center">
+    <a href="https://github.com/krishnakumardangi/kicad/tree/main/docs"><img src="../docs/PCB_layout_and_Routing.png" alt="Layout and Routing" width="550"></a>
+</h1>
+
+<h1 align="center">
+    <a href="https://github.com/krishnakumardangi/kicad/tree/main/docs"><img src="../docs/3Dview1.png" alt="3D view" width="550"></a>
+</h1>
+
+<h1 align="center">
+    <a href="https://github.com/krishnakumardangi/kicad/tree/main/docs"><img src="../docs/3Dview2.png" alt="3D view" width="550"></a>
+</h1>
 
 4. Generating Garber File
 
